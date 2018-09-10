@@ -6,9 +6,6 @@ Este ensayo muetra un ejemplo de consumo del Webservice PSE - ACH Colombia, desd
 Este codigo muestra basicamente como hacer un pago, con los datos basicos desde un formulario, y el almacenamiento de la respuesta devuelta por el servicio, para luego ser listado.
 
 
-<a href="">Desde este link puede ir al DEMO</a>
-
-
 ## Sugerencias
 Por razones de tiempos quedaron estos puntos pendientes:
 
