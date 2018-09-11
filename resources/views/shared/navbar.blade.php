@@ -13,8 +13,7 @@
           <div id="navbar" class="navbar-collapse collapse navbar-right">
             <ul class="nav navbar-nav">
               <li><a href="\">Inicio</a></li>
-              <li><a href="\nuevopago">Pagos</a></li>
-              <li><a href="\consulta">Consultar Pagos</a></li>
+              <li><a href="\pagos">Pagos</a></li>
               <!--<li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Miembros<span class="caret"></span></a>
                 <ul class="dropdown-menu">
