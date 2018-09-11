@@ -10,11 +10,13 @@ Este codigo muestra basicamente como hacer un pago, con los datos basicos desde 
 
 
 ## Sugerencias
-Por razones de tiempos algunas cosas deben mejorarse:
+Por razones de tiempos quedaron estos puntos pendientes:
 
 - Control de usuarios
 
 - Validacion de campos
 
 - Crear una tabla registro de pagadores, de manera que al realizar el pago se puedan recuperar desde su numero de cedula o email.
+
+- Manejo de Errores cuando el servicio no responde.
 
